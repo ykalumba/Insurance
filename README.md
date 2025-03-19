@@ -2,7 +2,7 @@
 
 # Insurance Company Benchmark (COIL 2000)
 
-This studies patterns and insights from in [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/125/insurance+company+benchmark+coil+2000) Repository, and the main objective is to study whether a client predict will be interested in buying a caravan insurance policy and give an explanation why?.
+This studies patterns and insights from in [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/125/insurance+company+benchmark+coil+2000), and the main objective is to study whether a client predict will be interested in buying a caravan insurance policy and give an explanation why?.
 
 ## :page_facing_up: Project Background
 SpaceX is the most successful company of the commercial space 
