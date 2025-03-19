@@ -1,5 +1,3 @@
-# Insurance
-
 # Insurance Company Benchmark (COIL 2000)
 
 This studies patterns and insights from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/125/insurance+company+benchmark+coil+2000), and the main objective is to study whether a client predict will be interested in buying a caravan insurance policy and give an explanation why?.
