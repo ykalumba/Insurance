@@ -16,4 +16,4 @@ The performance of each model was evaluated using the following metrics:
  - Baseline, Training and Test accuracy
    
 ## Discussion
-Among the models evaluated, Logistic regression and Random Forest Regression (rfr), rfr demonstrated the best performance in terms of Training and Test accuracy. 
+Among the models evaluated, Logistic regression and Random Forest Regression (rfr), rfr demonstrated the best performance in terms of Training and Test accuracy. It is obsevrved that sociodemographics have more influence on hoe clients respond towards a specific product. 
